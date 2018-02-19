@@ -1,0 +1,22 @@
+authImage Class
+version 0.2
+
+Author:       Cezary Piekacz :: Cezex
+Release date: 2006-09-20
+Last update:  2006-11-07
+License:      GPL, http://www.gnu.org/copyleft/gpl.html
+
+For more information visit: http://redfish.pl/programy/authImage
+
+==========================================================
+
+HOW TO INSTALL
+
+1. extract files from the zip package to the destination
+   directory
+
+2. make sure you have PHP with GD library support installed
+	 on your server
+
+3. use code provided in validate.php, image.php and
+	 index.html files in your application
